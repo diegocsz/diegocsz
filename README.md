@@ -1,3 +1,3 @@
 <div align="center">
-  <h1 align="center">¡Hola!, soy Diego Cèsar Salcedo Zerpa</a> B)</h1>
+  <h1 align="center">¡Hola!, soy Diego César Salcedo Zerpa</a> B)</h1>
 </div>
