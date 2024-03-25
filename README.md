@@ -5,9 +5,11 @@
     <img src="https://skillicons.dev/icons?i=rust,bash,vim,git,github,arch,linux,notion" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=rust,bash,vim,git,github,arch,linux,notion)](https://skillicons.dev)
 # Redes sociales
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rust,vim,git,github,arch,linux,notion)](https://skillicons.dev)
+[![Redes sociales](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![Redes sociales](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Redes sociales](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![Redes sociales](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
+
 
 
