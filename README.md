@@ -37,5 +37,3 @@ Estoy construyendo un sistema de punta a punta:
 *“— El Sr. Stark presenta un comportamiento compulsivo. — En mi defensa, eso sólo fue la semana pasada.”* — Tony Stark
 
 ---
-
-¿Qué te parece esta entrada? Queda mucho más natural: te presentas como un ingeniero de software que resuelve un problema complejo en una capa muy específica de la tecnología, sin obligarte a usar un título inventado que los reclutadores o la industria no reconozcan.
