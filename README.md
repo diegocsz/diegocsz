@@ -16,7 +16,7 @@ Mi enfoque profesional es convertirme en un **Glue Engineer**: el ingeniero que 
 
 Estoy ejecutando un plan de 4 fases para dominar el stack completo:
 
-1. **Bases de Acero:** Consolidando lógica avanzada con *CS50 (Harvard)* y Python.
+1. **Bases de Acero:** Consolidando lógica avanzada con *CS50 (Harvard)* y Python *Code In Place (Stanford)*.
 2. **Límite Inferior:** Dominio de C++ Moderno y arquitectura ARM para interactuar con hardware de forma eficiente.
 3. **El Pegamento (JVM & Cloud):** Backend robusto con Kotlin (Ktor) y despliegue en GCP (Cloud Run).
 4. **Capa Visual:** Interfaces modernas con Jetpack Compose y despliegue multiplataforma con KMP.
