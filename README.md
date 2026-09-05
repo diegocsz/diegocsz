@@ -37,3 +37,37 @@ Estoy construyendo un sistema de punta a punta:
 *“— El Sr. Stark presenta un comportamiento compulsivo. — En mi defensa, eso sólo fue la semana pasada.”* — Tony Stark
 
 ---
+
+# Práctica calificada 1 - Hojas de Estilo en Cascada Avanzado
+---
+## P1 – Sobre diseño responsivo, responda:   
+a) ¿Qué es diseño web responsivo? (1 pt)
+Un diseño web responsivo es una técnica para desarrollar páginas web que se adapten a los distintos tamaños y disposiciones estándres de visualización,
+con el objetivo de lograr una mejor visualización.
+b) Indique la función del viewport (1 pt)
+Define el área visible de la página web y ajusta su escala para que el diseño se adapte correctamente a las pantallas de dispositivos móviles.
+c) ¿Para qué se utiliza la media querie? (2 pt)
+Se utilizan para aplicar diferentes estilos CSS de forma condicional según las características del dispositivo, como el ancho o la orientación de la pantalla.
+---
+## P2 – Sobre Flexbox y Grid Layout, responda:  
+a) ¿Qué es Flexbox? (1.5 pt)
+Es un modelo de diseño CSS unidireccional diseñado para distribuir y alinear elementos a lo largo de un solo eje (en fila o en columna).
+b) ¿Qué es Grid Layout? (1.5 pt)
+Es un sistema de diseño CSS bidireccional que permite organizar componentes en una retícula formada simultáneamente por filas y columnas.
+c) Mencione una diferencia fundamental entre ambos. (1 pt)
+Flexbox trabaja en una sola dimensión (fila o columna a la vez), mientras que Grid Layout trabaja en dos dimensiones al mismo tiempo (filas y columnas).
+---
+## Consigna de la aplicación práctica:
+Un centro de capacitación necesita presentar tres tarjetas de cursos en su página web.
+El estudiante deberá aplicar CSS para lograr una presentación ordenada, visualmente consistente y adaptable al tamaño disponible.
+En base al proyecto “PC1” proporcionado por el docente, desarrolle los siguientes requerimientos:
+---
+## P3 –Sobre Diseño Responsivo
+Complete CSS para lograr una presentación adaptable.
+Debe incluir estilos generales y una media query que modifique la presentación en pantallas pequeñas. (4 puntos)
+---
+## P4 – Sobre Flexbox
+Utilice Flexbox para organizar el menú y las tarjetas de cursos.
+En pantalla amplia deben distribuirse horizontalmente; en pantalla pequeña deben reorganizarse verticalmente, manteniendo una separación adecuada. (4 puntos)
+## P5 – Sobre Grid Layout
+Utilice Grid para organizar “.informacion” en dos columnas en pantalla amplia y en una columna en pantalla pequeña. (4 puntos)
